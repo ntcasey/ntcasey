@@ -1,10 +1,12 @@
-### Hi there 👋, here are some of the things I am up to:
+### Hi there 👋 
+### here are some of the things I am up to:
 
 <!--
 **ntcasey/ntcasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on coding challenges, front and backend technologies.
 - 🌱 I’m currently learning anything that excite me!
